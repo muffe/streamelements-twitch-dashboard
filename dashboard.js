@@ -84,7 +84,7 @@
     }
 
     function filterCertainUsers(userName) {
-        var filterUsers = ["muffe2k", "streamelements"];
+        var filterUsers = ["Array", "OfUsers", "ToFilter"];
         return filterUsers.indexOf(userName) == -1;
     }
 
